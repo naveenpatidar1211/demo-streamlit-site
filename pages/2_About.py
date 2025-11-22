@@ -1,15 +1,3 @@
-import streamlit as st
-
-# Page config
-st.set_page_config(page_title="About", page_icon="👤")
-
-# Header
-st.markdown("# 👤 About Us")
-st.markdown("### *Discover Who We Are*")
-st.markdown("---")
-
-# Bio text content
-st.markdown("""
 #### Our Story
 We're a passionate team of developers and creators dedicated to making data visualization and web apps accessible to everyone. Founded in 2023, our mission is to empower beginners and pros alike with tools like Streamlit.
 
@@ -23,11 +11,13 @@ With over 10 years in software engineering, Jane discovered Streamlit during a h
 - **Community**: Contributing to forums and GitHub repos.
 - **Fun**: Because building apps should be enjoyable!
 
+### Our Vision
+At our core, we believe in a future where data literacy is accessible to everyone. We envision a world where anyone can harness the power of data, turning insights into actions with just a few clicks.
+
+### Our Team
+Our team consists of diverse talents from various backgrounds, including data scientists, UX/UI designers, and educators. Together, we are committed to creating a supportive ecosystem for all users, whether they're just starting their journey or looking to enhance their skills.
+
+### Join Us
+We're always looking for new contributors and collaborators! If you share our mission or have ideas for new features, please reach out. Together, we can inspire the next generation of creators!
+
 Thanks for visiting. We'd love to hear your feedback!
-""")
-
-# Add an image placeholder (you can replace with a real URL)
-st.image("https://via.placeholder.com/400x200?text=Team+Photo", caption="Our amazing team (placeholder)", use_column_width=True)
-
-st.markdown("---")
-st.markdown("*Connect with us: [LinkedIn](https://linkedin.com) | [GitHub](https://github.com)*")
