@@ -11,19 +11,19 @@ st.markdown("---")
 # Bio text content
 st.markdown("""
 #### Our Story
-We're a passionate team of developers and creators dedicated to making data visualization and web apps accessible to everyone. Founded in 2023, our mission is to empower beginners and pros alike with tools like Streamlit.
+We are a team of developers dedicated to making data visualization accessible. Founded in 2023, our mission is to empower users with tools like Streamlit.
 
 #### Meet the Founder
 **Jane Doe**  
 *Full-Stack Developer & Streamlit Enthusiast*  
-With over 10 years in software engineering, Jane discovered Streamlit during a hackathon and hasn't looked back. "Streamlit turns Python scripts into shareable web apps in minutes—it's magic!" When not coding, she's hiking in the Rockies or mentoring at local tech meetups.
+With over 10 years in software engineering, Jane discovered Streamlit during a hackathon. "Streamlit turns Python scripts into shareable web apps in minutes—it's magic!" When not coding, she's hiking in the Rockies or mentoring at local tech meetups.
 
 #### What Drives Us?
 - **Innovation**: Pushing boundaries with open-source tools.
 - **Community**: Contributing to forums and GitHub repos.
 - **Fun**: Because building apps should be enjoyable!
 
-Thanks for visiting. We'd love to hear your feedback!
+Thanks for visiting. We’d love to hear your feedback!
 """)
 
 # Add an image placeholder (you can replace with a real URL)
