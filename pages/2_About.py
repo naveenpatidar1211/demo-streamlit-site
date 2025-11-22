@@ -11,7 +11,9 @@ st.markdown("---")
 # Bio text content
 st.markdown("""
 #### Our Story
-We are a team of developers dedicated to making data visualization accessible. Founded in 2023, our mission is to empower users with tools like Streamlit.
+Founded in 2023, we are a dedicated team of developers focused on democratizing data visualization. We believe that the ability to understand and present data should not be limited to technical experts. Inspired by tools such as Streamlit, our work revolves around creating platforms that are simple, scalable, and powerful.
+Over time, we have expanded our capabilities, embracing new technologies, improving user experience, and continuously refining our approach. Our goal is to empower individuals, teams, and organizations to make smarter decisions by turning complex data into clear, interactive visuals.
+As we grow, our commitment remains the same—delivering solutions that bridge the gap between data and understanding.
 
 #### Meet the Founder
 **Jane Doe**  
